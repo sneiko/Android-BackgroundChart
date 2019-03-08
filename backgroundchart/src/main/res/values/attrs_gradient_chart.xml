@@ -1,0 +1,17 @@
+<resources>
+    <declare-styleable name="GradientChart">
+
+        <!-- chart gradient colors -->
+        <attr name="chartLineColor" format="color"/>
+        <attr name="plusColorStart" format="color"/>
+        <attr name="plusColorEnd" format="color"/>
+        <attr name="minusColorStart" format="color"/>
+        <attr name="minusColorEnd" format="color"/>
+
+        <!-- other -->
+        <attr name="isBezier" format="boolean"/>
+        <attr name="bezierIntensity" format="float"/>
+        <attr name="zoom" format="integer"/>
+
+    </declare-styleable>
+</resources>
