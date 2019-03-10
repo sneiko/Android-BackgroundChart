@@ -1,4 +1,5 @@
 [![](https://jitpack.io/v/JastAir/Android-BackgroundChart.svg)](https://jitpack.io/#JastAir/Android-BackgroundChart)
+[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-Background%20Chart-brightgreen.svg?style=flat)](https://android-arsenal.com/details/1/7561)
 
 # Android-BackgroundChart
 
