@@ -7,7 +7,7 @@
 
 
 
-It's are simple chart for background your activity or fragment. You can choose colors with gradient for display your chart the most customize or choose what kind you chart need is now, simple lines or bezier.
+It is a  simple chart for background display of your activity or fragment. You can choose colors with gradient to display pn your chart the most customize or choose what kind your chart needs now, simple lines or bezier.
 Best it usage and good luck ;)
 
 
