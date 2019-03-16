@@ -17,9 +17,7 @@ import android.util.Log
 class GradientChart : View {
 
     // region public settings
-    var chartValues: Array<Float> = arrayOf(
-        10f, 30f, 25f, 32f, 13f, 5f, 18f, 36f, 20f, 30f, 28f, 27f, 29f
-    )
+    var chartValues: Array<Float> = arrayOf()
         set(value) {
             field = value
             invalidate()

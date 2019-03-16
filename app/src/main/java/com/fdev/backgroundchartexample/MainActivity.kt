@@ -11,7 +11,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         gradientChart.chartValues = arrayOf(
-            10f, 30f, 25f, 32f, 13f, 5f, 18f, 36f, 20f, 30f, 28f, 27f, 29f
+            40f, 40f, 40f, 32f, 13f, 5f, 18f, 36f, 20f, 30f, 28f, 27f, 29f
         )
     }
 
