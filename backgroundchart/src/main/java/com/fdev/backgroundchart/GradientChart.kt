@@ -175,7 +175,8 @@ class GradientChart : View {
     }
 
     private fun setupChartPath() {
-
+        if(chartValues.count() <= 0) return
+        
         val chartPointStep = mWidth / chartValues.count()
 
         minChartValue = ((chartValues.max()!! * zoom) + yCenter).toInt()
